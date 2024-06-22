@@ -1,0 +1,201 @@
+project,issue,category,linter,detected
+Internal 1, 1, 1,staticcheck,FALSE
+Internal 1, 1, 1,govet,FALSE
+Internal 1, 1, 1,revive,TRUE
+Internal 1, 1, 1,gosec,TRUE
+Internal 1, 1, 1,errcheck,FALSE
+Internal 1, 2, 1, staticcheck,FALSE
+Internal 1, 2, 1, govet,FALSE
+Internal 1, 2, 1, revive,TRUE
+Internal 1, 2, 1, gosec,TRUE
+Internal 1, 2, 1, errcheck,FALSE
+Internal 1, 3, 1, staticcheck,FALSE
+Internal 1, 3, 1, govet,FALSE
+Internal 1, 3, 1, revive,TRUE
+Internal 1, 3, 1, gosec,FALSE
+Internal 1, 3, 1, errcheck,FALSE
+Internal 1, 4, 1,staticcheck,FALSE
+Internal 1, 4, 1,govet,FALSE
+Internal 1, 4, 1,revive,FALSE
+Internal 1, 4, 1,gosec,TRUE
+Internal 1, 4, 1,errcheck,FALSE
+Internal 2, 1, 1,staticcheck,FALSE
+Internal 2, 1, 1,govet,FALSE
+Internal 2, 1, 1,revive,TRUE
+Internal 2, 1, 1,gosec,TRUE
+Internal 2, 1, 1,errcheck,FALSE
+Internal 2, 2, 1,staticcheck,FALSE
+Internal 2, 2, 1,govet,FALSE
+Internal 2, 2, 1,revive,FALSE
+Internal 2, 2, 1,gosec,TRUE
+Internal 2, 2, 1,errcheck,FALSE
+Internal 3,1,2,staticcheck,TRUE
+Internal 3,1,2,govet,FALSE
+Internal 3,1,2,revive,TRUE
+Internal 3,1,2,gosec,TRUE
+Internal 3,1,2,errcheck,TRUE
+Internal 3,2,2,staticcheck,TRUE
+Internal 3,2,2,govet,FALSE
+Internal 3,2,2,revive,FALSE
+Internal 3,2,2,gosec,FALSE
+Internal 3,2,2,errcheck,FALSE
+Internal 3,3,2,staticcheck,TRUE
+Internal 3,3,2,govet,FALSE
+Internal 3,3,2,revive,TRUE
+Internal 3,3,2,gosec,FALSE
+Internal 3,3,2,errcheck,FALSE
+Internal 3,4,3,staticcheck,FALSE
+Internal 3,4,3,govet,FALSE
+Internal 3,4,3,revive,TRUE
+Internal 3,4,3,gosec,FALSE
+Internal 3,4,3,errcheck,FALSE
+Internal 3,5,3,staticcheck,FALSE
+Internal 3,5,3,govet,FALSE
+Internal 3,5,3,revive,TRUE
+Internal 3,5,3,gosec,FALSE
+Internal 3,5,3,errcheck,FALSE
+Internal 3,6,3,staticcheck,FALSE
+Internal 3,6,3,govet,FALSE
+Internal 3,6,3,revive,TRUE
+Internal 3,6,3,gosec,FALSE
+Internal 3,6,3,errcheck,FALSE
+Internal 3,7,3,staticcheck,FALSE
+Internal 3,7,3,govet,FALSE
+Internal 3,7,3,revive,TRUE
+Internal 3,7,3,gosec,FALSE
+Internal 3,7,3,errcheck,FALSE
+Internal 4,1,4,staticcheck,TRUE
+Internal 4,1,4,govet,FALSE
+Internal 4,1,4,revive,FALSE
+Internal 4,1,4,gosec,FALSE
+Internal 4,1,4,errcheck,FALSE
+Internal 4,2,4,staticcheck,TRUE
+Internal 4,2,4,govet,FALSE
+Internal 4,2,4,revive,FALSE
+Internal 4,2,4,gosec,FALSE
+Internal 4,2,4,errcheck,FALSE
+Internal 4,3,5,staticcheck,FALSE
+Internal 4,3,5,govet,FALSE
+Internal 4,3,5,revive,TRUE
+Internal 4,3,5,gosec,FALSE
+Internal 4,3,5,errcheck,FALSE
+Internal 4,4,5,staticcheck,FALSE
+Internal 4,4,5,govet,FALSE
+Internal 4,4,5,revive,TRUE
+Internal 4,4,5,gosec,FALSE
+Internal 4,4,5,errcheck,FALSE
+Hertz,1,6,staticcheck,FALSE
+Hertz,1,6,govet,FALSE
+Hertz,1,6,revive,FALSE
+Hertz,1,6,gosec,FALSE
+Hertz,1,6,errcheck,FALSE
+Hertz,2,7,staticcheck,FALSE
+Hertz,2,7,govet,FALSE
+Hertz,2,7,revive,FALSE
+Hertz,2,7,gosec,FALSE
+Hertz,2,7,errcheck,FALSE
+Hertz,3,8,staticcheck,FALSE
+Hertz,3,8,govet,FALSE
+Hertz,3,8,revive,FALSE
+Hertz,3,8,gosec,FALSE
+Hertz,3,8,errcheck,FALSE
+geo,1,6,staticcheck,FALSE
+geo,1,6,govet,FALSE
+geo,1,6,revive,FALSE
+geo,1,6,gosec,FALSE
+geo,1,6,errcheck,FALSE
+Snappy,1,6,staticcheck,FALSE
+Snappy,1,6,govet,FALSE
+Snappy,1,6,revive,FALSE
+Snappy,1,6,gosec,FALSE
+Snappy,1,6,errcheck,FALSE
+Pulumi,1,6,staticcheck,TRUE
+Pulumi,1,6,govet,FALSE
+Pulumi,1,6,revive,FALSE
+Pulumi,1,6,gosec,FALSE
+Pulumi,1,6,errcheck,FALSE
+terraform-provider-btp,1,6,staticcheck,TRUE
+terraform-provider-btp,1,6,govet,FALSE
+terraform-provider-btp,1,6,revive,FALSE
+terraform-provider-btp,1,6,gosec,FALSE
+terraform-provider-btp,1,6,errcheck,FALSE
+MessagePack Code Generator,1,6,staticcheck,TRUE
+MessagePack Code Generator,1,6,govet,FALSE
+MessagePack Code Generator,1,6,revive,FALSE
+MessagePack Code Generator,1,6,gosec,FALSE
+MessagePack Code Generator,1,6,errcheck,FALSE
+Kubernetes,1,6,staticcheck,FALSE
+Kubernetes,1,6,govet,FALSE
+Kubernetes,1,6,revive,FALSE
+Kubernetes,1,6,gosec,FALSE
+Kubernetes,1,6,errcheck,FALSE
+Kubernetes,2,7,staticcheck,FALSE
+Kubernetes,2,7,govet,FALSE
+Kubernetes,2,7,revive,FALSE
+Kubernetes,2,7,gosec,FALSE
+Kubernetes,2,7,errcheck,FALSE
+Kubernetes,3,7,staticcheck,FALSE
+Kubernetes,3,7,govet,FALSE
+Kubernetes,3,7,revive,FALSE
+Kubernetes,3,7,gosec,FALSE
+Kubernetes,3,7,errcheck,FALSE
+Kubernetes,4,8,staticcheck,FALSE
+Kubernetes,4,8,govet,FALSE
+Kubernetes,4,8,revive,FALSE
+Kubernetes,4,8,gosec,FALSE
+Kubernetes,4,8,errcheck,FALSE
+Telegraf,1,7,staticcheck,FALSE
+Telegraf,1,7,govet,FALSE
+Telegraf,1,7,revive,TRUE
+Telegraf,1,7,gosec,FALSE
+Telegraf,1,7,errcheck,FALSE
+Telegraf,2,7,staticcheck,FALSE
+Telegraf,2,7,govet,FALSE
+Telegraf,2,7,revive,TRUE
+Telegraf,2,7,gosec,FALSE
+Telegraf,2,7,errcheck,FALSE
+Telegraf,3,7,staticcheck,FALSE
+Telegraf,3,7,govet,FALSE
+Telegraf,3,7,revive,TRUE
+Telegraf,3,7,gosec,FALSE
+Telegraf,3,7,errcheck,FALSE
+State Tool,1,8,staticcheck,TRUE
+State Tool,1,8,govet,FALSE
+State Tool,1,8,revive,FALSE
+State Tool,1,8,gosec,FALSE
+State Tool,1,8,errcheck,FALSE
+terraform-provider-hostingde,1,8,staticcheck,TRUE
+terraform-provider-hostingde,1,8,govet,FALSE
+terraform-provider-hostingde,1,8,revive,FALSE
+terraform-provider-hostingde,1,8,gosec,FALSE
+terraform-provider-hostingde,1,8,errcheck,FALSE
+Jsoniter,1,9,staticcheck,FALSE
+Jsoniter,1,9,govet,FALSE
+Jsoniter,1,9,revive,FALSE
+Jsoniter,1,9,gosec,FALSE
+Jsoniter,1,9,errcheck,FALSE
+syzkaller,1,9,staticcheck,FALSE
+syzkaller,1,9,govet,FALSE
+syzkaller,1,9,revive,FALSE
+syzkaller,1,9,gosec,FALSE
+syzkaller,1,9,errcheck,FALSE
+Schematic,1,10,staticcheck,FALSE
+Schematic,1,10,govet,FALSE
+Schematic,1,10,revive,FALSE
+Schematic,1,10,gosec,FALSE
+Schematic,1,10,errcheck,FALSE
+Schematic,2,10,staticcheck,FALSE
+Schematic,2,10,govet,FALSE
+Schematic,2,10,revive,FALSE
+Schematic,2,10,gosec,FALSE
+Schematic,2,10,errcheck,FALSE
+Integreatly Operator,1,10,staticcheck,FALSE
+Integreatly Operator,1,10,govet,FALSE
+Integreatly Operator,1,10,revive,FALSE
+Integreatly Operator,1,10,gosec,TRUE
+Integreatly Operator,1,10,errcheck,FALSE
+gotrue,1,10,staticcheck,FALSE
+gotrue,1,10,govet,FALSE
+gotrue,1,10,revive,FALSE
+gotrue,1,10,gosec,TRUE
+gotrue,1,10,errcheck,FALSE
