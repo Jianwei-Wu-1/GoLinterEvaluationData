@@ -2,8 +2,6 @@
 
 This is a publicly available dataset for 'An empirical evaluation of Golang static code analysis tools for real-world issues.' Please refer to the data according to the names of the spreadsheets.
 
-Repository Contents
-
 ## 1. R Scripts and Raw Data:
 - **R scripts**: These scripts are used for data analysis and processing.
 - **Raw data**: This is the initial data collected from surveys or other sources before any processing or analysis.
