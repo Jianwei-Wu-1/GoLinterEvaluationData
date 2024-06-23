@@ -2,7 +2,7 @@
 
 This is a publicly available dataset for 'An empirical evaluation of Golang static code analysis tools for real-world issues.' Please refer to the data according to the names of the spreadsheets.
 
-# Repository Contents
+Repository Contents
 
 ## 1. R Scripts and Raw Data:
 - **R scripts**: These scripts are used for data analysis and processing.
@@ -12,8 +12,8 @@ This is a publicly available dataset for 'An empirical evaluation of Golang stat
 - **Collected Survey Data - Golinter Evaluation Paper.xlsx**: This Excel file contains survey data collected for the evaluation of Go linters.
 - **Surveys for External Participants**: This folder contains the surveys sent to external participants for collecting their feedback or data.
 
-## 3. Invitation Letter.pdf:
-- **Invitation Letter.pdf**: This PDF contains the invitation letter sent to potential survey participants, inviting them to take part in the study.
+## 3. Recruitment Letter.pdf:
+- **Recruitment Letter.pdf**: This PDF contains an example of the recruitment letter sent to potential survey participants, inviting them to take part in the study.
 
 ## 4. Outputs from Existing Go Linters and Summarized Categories.xlsx:
 - This Excel file contains outputs from various Go linters and categorized summaries of these outputs. It helps in comparing the performance and features of different linters.
@@ -23,3 +23,6 @@ This is a publicly available dataset for 'An empirical evaluation of Golang stat
 
 ## 6. UD IRB Exempt Letter.pdf:
 - This PDF contains the Institutional Review Board (IRB) exemption letter from the University of Delaware (UD), indicating that the study involving human participants was exempt from full review.
+
+## 7. Survey Template.pdf:
+- This PDF contains an example of the survey sent to the participants. 
